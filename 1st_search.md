@@ -11,7 +11,8 @@ Why it's a good first job:
 - Flexible scheduling
 - No extensive experience required
 
----
+#---
+#
 
 ## Walmart - Personal Shopper (In-Store)
 Location: Vidalia, GA
@@ -22,9 +23,9 @@ Why it's a good first job:
 - Teamwork experience
 - Customer interaction
 - Order fulfillment skills
-
+#
 ---
-
+#
 ## Dollar Tree - Customer Service Associate I
 Location: Vidalia, GA
 Type: Part-Time
@@ -33,9 +34,9 @@ Why it's a good first job:
 - Cashier experience
 - Customer service skills
 - Retail fundamentals
-
+#
 ---
-
+#
 ## Bealls - Store Associate
 Location: Vidalia, GA
 Type: Part-Time
@@ -44,9 +45,9 @@ Why it's a good first job:
 - Stocking merchandise
 - Customer assistance
 - Sales floor experience
-
+#
 ---
-
+#
 ## Bath & Body Works - Retail Sales Support
 Location: Vidalia, GA
 Type: Part-Time
@@ -56,9 +57,9 @@ Why it's a good first job:
 - Retail experience
 - Customer service
 - Team environment
-
+#
 ---
-
+#
 ## Belk - Selling Flex Associate
 Location: Vidalia, GA
 Type: Part-Time
@@ -67,9 +68,9 @@ Why it's a good first job:
 - Sales experience
 - Product knowledge
 - Customer interaction
-
+#
 ---
-
+#
 ## Metro by T-Mobile - Retail Sales Representative
 Location: Vidalia, GA
 Type: Part-Time
@@ -79,9 +80,9 @@ Why it's a good first job:
 - Sales experience
 - Communication skills
 - Opportunity to earn more through performance
-
+#
 ---
-
+#
 ## Recommended Application Order
 
 1. Walmart - Personal Shopper
